@@ -12,6 +12,6 @@ system of paramators →
 system of parameters
 
 295p
-上から17行目,19行目
+上から17行目,19行目,21行目
 g,f2,...,fn-m-1→
 g,f2,...,fn-m+1
