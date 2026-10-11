@@ -24,6 +24,12 @@ p.64
 fig.subplots()関数→
 plt.subplots()関数
 
+p.72
+16行目　コメント
+# ファイル名~_001.pdf→
+# ファイル名~_000.pdf
+(0始まり)
+
 p.81 コード上から3行目
 x=cho_solve(lu, b) →
 x=cho_solve(c_and_lower, b)
