@@ -48,4 +48,8 @@ p.81 上から4行目
 Lower オプションです．Lower=False→
 lower オプションです．lower=False
 
+p.102 23行目のコメント
+kin_matrix = -0.5 * deriv2 
+疎行列からNumPy配列に変換はおそらく別の行のもの
+
 
