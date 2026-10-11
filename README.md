@@ -19,6 +19,11 @@ p.58、p215
 フェルミーパスターウラムの再帰現象
 再起現象→再帰現象
 
+p.64
+解説　上から3行目
+fig.subplots()関数→
+plt.subplots()関数
+
 p.81 コード上から3行目
 x=cho_solve(lu, b) →
 x=cho_solve(c_and_lower, b)
