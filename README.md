@@ -39,4 +39,8 @@ x=cho_solve(lu, b) →
 x=cho_solve(c_and_lower, b)
 (正誤表より)
 
+p.81 上から4行目
+Lower オプションです．Lower=False→
+lower オプションです．lower=False
+
 
