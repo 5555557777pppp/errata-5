@@ -37,7 +37,7 @@ p.72
 
 p.81 コード上から2行目
 Lower=False →
-lower=False 
+lower=False(小文字でないとエラー)
 
 p.81 コード上から3行目
 x=cho_solve(lu, b) →
