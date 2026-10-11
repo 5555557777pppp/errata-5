@@ -30,6 +30,10 @@ p.72
 ファイル名~_000.pdf
 (0始まり)
 
+p.81 コード上から2行目
+Lower=False →
+lower=False 
+
 p.81 コード上から3行目
 x=cho_solve(lu, b) →
 x=cho_solve(c_and_lower, b)
