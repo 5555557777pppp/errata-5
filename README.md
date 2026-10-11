@@ -20,5 +20,6 @@ p.58、p215
 p.81 コード上から3行目
 x=cho_solve(lu, b) →
 x=cho_solve(c_and_lower, b)
+(正誤表より)
 
 
