@@ -60,4 +60,8 @@ p.138 上から9行目
 Integrating funtions, given fixed samples→
 Integrating functions, given fixed samples
 
+p.157 上から2行目
+T＝0の極限解m=0をつなげた解→
+T＝0の極限解m=1をつなげた解
+
 
