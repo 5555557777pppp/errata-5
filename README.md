@@ -52,4 +52,8 @@ p.102 23行目のコメント
 kin_matrix = -0.5 * deriv2 
 「疎行列からNumPy配列に変換」は31行目のもの
 
+p.133 main関数（42〜50行目） 4行目
+ArgmentParserクラスを→
+ArgumentParserクラスを
+
 
