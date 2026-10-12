@@ -56,7 +56,7 @@ p.133 main関数（42〜50行目） 4行目
 ArgmentParserクラスを→
 ArgumentParserクラスを
 
-p.138 9行目
+p.138 上から9行目
 Integrating funtions, given fixed samples→
 Integrating functions, given fixed samples
 
