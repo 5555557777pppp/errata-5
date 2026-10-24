@@ -11,6 +11,7 @@ p.410
 [4]Duke Math. J. 148 (2009), 373–403.
 (bfを削除)
 
+p.413
 [81] T. Furuta , Proc. Math. Soc. 101 (1987)
 [81] T. Furuta , ⁠Proc. Amer. Math. Soc.⁠ 101 (1987)
 (ここだけ⁠Amer. が抜け)
