@@ -10,3 +10,6 @@ p.410
 [4]Duke Math. J. bf 148 (2009), 373–403.→
 [4]Duke Math. J. 148 (2009), 373–403.
 (bfを削除)
+
+[81] T. Furuta , Proc. Math. Soc. 101 (1987)
+[81] T. Furuta , Proc. Math. Soc. 101 (1987), 85–88
