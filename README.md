@@ -12,4 +12,5 @@ p.410
 (bfを削除)
 
 [81] T. Furuta , Proc. Math. Soc. 101 (1987)
-[81] T. Furuta , Proc. Math. Soc. 101 (1987), 85–88
+[81] T. Furuta , ⁠Proc. Amer. Math. Soc.⁠ 101 (1987)
+(ここだけ⁠Amer. が抜け)
