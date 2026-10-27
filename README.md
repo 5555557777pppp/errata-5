@@ -17,7 +17,7 @@ p.236 (Exercise 5.7 (2)(3))下から2行目「P₂→P₃ ではA·dr = 8u du」
 p.237 1行目 ∫₀¹ 8u du → ∫₁⁰  -8u du (P₂→P₃ では v が 0→1、u は 1→0 に動くので)
 p.236 Coaching2行目 (1)
 p.237 5行目　
-0≤u+v≤1 である→ u≥0, v≥0, u+v≤1 である
+0≤u+v≤1 である→ u≥0, v≥0, u+v≤1 である(省略されただけかもしれません)
 p.240 10行目　3項の積分 ∬_xy∫ ∂A_z/∂z dz →∬_xydxdy∫ ∂A_z/∂z dz, 12行目の1 項(x)と 2 項(y)も同様
 p.240 最終行は ∬_xyz(∂A_x/∂x dx + ∂A_y/∂y dy + ∂A_z/∂z dz) → ∭_xyz(∂_xA_x + ∂_yA_y + ∂_zA_z) dx dy dz 
 p.242 AとBの外積の成分の3行目　A_xB_y − A_yB_z→A_xB_y − A_yB_x
