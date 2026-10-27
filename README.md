@@ -13,8 +13,8 @@ p.229 3行目 (x,y,z)→(r,φ,θ) → (x,y,z)→(r,θ,φ) ((r,φ,θ)の順番だ
 p.233 10行目 「円板上であれば r, θ を使いました」→「円板上であれば r, φ を使いました」(p.232 5行目 ではr, φ なので)
 p.234 7行目　4つ目の積分(P₄→P₁)の下端が「v₀+Δv₀」→「v₀+Δv」
 p.235 3行目　係数が (∂ₓA_y − ∂_yA_z) → (∂ₓA_y − ∂_yA_x) 
-p.240 の z 項の途中式 ∬_xy∫ ∂A_z/∂z dz には dx dy が見当たりません。x 項と y 項も面素が省略されています
-p.240 最終行は ∬_xyz(∂A_x/∂x dx + ∂A_y/∂y dy + ∂A_z/∂z dz) → ∭_M(∂_xA_x + ∂_yA_y + ∂_zA_z) dx dy dz 
+p.240 10行目　3項の積分 ∬_xy∫ ∂A_z/∂z dz →∬_xydxdy∫ ∂A_z/∂z dz, 12行目の1 項(x)と 2 項(y)も同様
+p.240 最終行は ∬_xyz(∂A_x/∂x dx + ∂A_y/∂y dy + ∂A_z/∂z dz) → ∭_xyz(∂_xA_x + ∂_yA_y + ∂_zA_z) dx dy dz 
 p.242 AとBの外積の成分の3行目　A_xB_y − A_yB_z→A_xB_y − A_yB_x
 p.320 3.2 y′ = (x²−y²)/(2xy) とすると   →  y′ = (y²−x²)/(2xy)　とすると(問題は x²−y²+2xyy′=0なので）
 p.323 5.5 I=a⁴∮sin³θdθ ∮cos²φ sinφdφ + → I=a⁴∮sin⁴θdθ ∮cos²φ sinφdφ +(第1項の sin³θ は sin⁴θ )
