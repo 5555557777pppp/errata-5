@@ -20,6 +20,7 @@ p.240 最終行は ∬_xyz(∂A_x/∂x dx + ∂A_y/∂y dy + ∂A_z/∂z dz) →
 p.242 AとBの外積の成分の3行目　A_xB_y − A_yB_z→A_xB_y − A_yB_x
 p.261 図6.8の正則部が「a₀ + a₁(z−z₀) + a₁(z−z₀)² + …」→
 「a₀ + a₁(z−z₀) + a₂(z−z₀)² + …」( a₁(z−z₀)² →a₂ (z−z₀)²)
+p.268 3行目　∫_{C_R} f dz = -i ∫₀^π e^{iR(cosθ+i sinθ)} dθ→　∫_{C_R} f dz = i ∫₀^π e^{iR(cosθ+i sinθ)} dθ
 p.269 1行目　Z=Rから →z=Rから
 p.320 3.2 y′ = (x²−y²)/(2xy) とすると   →  y′ = (y²−x²)/(2xy)　とすると(問題は x²−y²+2xyy′=0なので）
 p.323 5.5 下から2行目　I=a⁴∮sin³θdθ ∮cos²φ sinφdφ + → I=a⁴∮sin⁴θdθ ∮cos²φ sinφdφ +(第1項の sin³θ は sin⁴θ )
