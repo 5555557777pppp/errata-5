@@ -21,7 +21,7 @@ p.242 AとBの外積の成分の3行目　A_xB_y − A_yB_z→A_xB_y − A_yB_x
 p.261 図6.8の正則部が「a₀ + a₁(z−z₀) + a₁(z−z₀)² + …」→
 「a₀ + a₁(z−z₀) + a₂(z−z₀)² + …」( a₁(z−z₀)² →a₂ (z−z₀)²)
 p.268 3行目　∫_{C_R} f dz = -i ∫₀^π e^{iR(cosθ+i sinθ)} dθ→　∫_{C_R} f dz = i ∫₀^π e^{iR(cosθ+i sinθ)} dθ
-p.269 1行目　Z=Rから →z=Rから
+p.269 1行目　Z=Rから →z=Rから(zが大文字でなく小文字)
 p.269 12行目　最後に∫_{C_R} f dzを評価する以降の計算が合わない
 f(z) = z e^{iz}/(z²+1) に z = Re^{iθ}、dz = iRe^{iθ} dθ を代入
 f(z) dz = [Re^{iθ} · e^{iz} / (R²e^{2iθ}+1)] · iRe^{iθ} dθ = i R² e^{2iθ} e^{iz} / (R²e^{2iθ}+1) dθ
