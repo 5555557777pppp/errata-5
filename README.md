@@ -18,6 +18,8 @@ p.237 1行目 ∫₀¹ 8u du → ∫₁⁰  -8u du (P₂→P₃ では v が 0�
 p.240 10行目　3項の積分 ∬_xy∫ ∂A_z/∂z dz →∬_xydxdy∫ ∂A_z/∂z dz, 12行目の1 項(x)と 2 項(y)も同様
 p.240 最終行は ∬_xyz(∂A_x/∂x dx + ∂A_y/∂y dy + ∂A_z/∂z dz) → ∭_xyz(∂_xA_x + ∂_yA_y + ∂_zA_z) dx dy dz 
 p.242 AとBの外積の成分の3行目　A_xB_y − A_yB_z→A_xB_y − A_yB_x
+p.261 図6.8の正則部が「a₀ + a₁(z−z₀) + a₁(z−z₀)² + …」→
+「a₀ + a₁(z−z₀) + a₂(z−z₀)² + …」 
 p.320 3.2 y′ = (x²−y²)/(2xy) とすると   →  y′ = (y²−x²)/(2xy)　とすると(問題は x²−y²+2xyy′=0なので）
 p.323 5.5 下から2行目　I=a⁴∮sin³θdθ ∮cos²φ sinφdφ + → I=a⁴∮sin⁴θdθ ∮cos²φ sinφdφ +(第1項の sin³θ は sin⁴θ )
 p.323 4.11 4行目　Pの定義をP=(1 2; 1 −1) →P= (1 2; −1 1) 
