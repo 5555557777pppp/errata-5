@@ -4,6 +4,9 @@ p.293 上から4行目
 Σ{w1(x11 − x̄1) + →
 Σ{w1(x1i − x̄1) + 
 
+p.294 表17.2 のスコア(1月)
+1.3 → -1.3 
+
 ------
 p.3 (2)5行目「プランク (Plank, M.)」→「プランク (Planck, M.)」
 p.5 脚注†5 SI は International System of Units の略　→ Système international d'unités の略
