@@ -4,6 +4,9 @@ p.110 上から9行目 「1, i, 1, −i, 1の値」→「1, i, -1, −i, 1の値
 p.118 下から3行目
 「n階常微分方程式 (nth-order linear ordinary differential equation)」→
 「n階常微分方程式 (nth-order ordinary differential equation)」
+p.156 (11.11)の1行上
+「ボーアの量子条件(11.10)式を書き直すと」→
+「ボーアの量子条件(11.6)式を書き直すと」
 p.158 (11.15) 
 Ĥ = −1/(2m)(p̂_x²+p̂_y²+p̂_z²)+V(x,y,z)→
 Ĥ = 1/(2m)(p̂_x²+p̂_y²+p̂_z²)+V(x,y,z)
