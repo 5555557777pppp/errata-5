@@ -4,6 +4,10 @@ p.110 上から9行目 「1, i, 1, −i, 1の値」→「1, i, -1, −i, 1の値
 p.118 下から3行目
 「n階常微分方程式 (nth-order linear ordinary differential equation)」→
 「n階常微分方程式 (nth-order ordinary differential equation)」
+p.158 (11.15) 
+Ĥ = −1/(2m)(p̂_x²+p̂_y²+p̂_z²)+V(x,y,z)→
+Ĥ = 1/(2m)(p̂_x²+p̂_y²+p̂_z²)+V(x,y,z)
+(ここにp̂_x²=-ħ²∂^2/∂x^2,p̂_y²=•••を代入して右辺となる)
 
 -----
 p.214 上から3行目
