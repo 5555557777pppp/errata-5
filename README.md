@@ -1,6 +1,9 @@
 # errata-5
 
 p.110 上から9行目 「1, i, 1, −i, 1の値」→「1, i, -1, −i, 1の値」
+p.118 下から3行目
+「n階常微分方程式 (nth-order linear ordinary differential equation)」→
+「n階常微分方程式 (nth-order ordinary differential equation)」
 
 -----
 p.214 上から3行目
