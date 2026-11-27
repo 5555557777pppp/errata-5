@@ -9,9 +9,11 @@ p.40 上から1行目
 p.55 下から2行目「X の素因子 E」 → 「Y の素因子 E」
 p.164 [Gro] 「Séminarire H. Cartan」→「Séminaire H. Cartan」
 p.165 [Ka] 「135–160」→「135–156」
+
 -------
 
 p.32：ジェミナルの綴り「germinal」→ geminal
+
 -------
 p140 一番下
 1+G1G2/1+G1G2G3G4 イタリックと混ざってる
